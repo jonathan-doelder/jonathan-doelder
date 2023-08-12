@@ -44,3 +44,11 @@ The 14 gram trap contains 10.5 mg of cholecalciferol. This is slightly below the
 end of the LD50 range for average-sized rats.
 
 
+By underdosing the Vitamin D in the bait by 50% (this would bring them over the theoretical LD50% peak), Raid would save $441,000 if they sell a million packages per year, assuming that Vitamin D costs $7 per kilogram. 
+
+But this discounts the inactive ingredients as well, but it's fair to assume that cellulose, flour, or other commonly used excipients cost less than Vitamin D (even though the latter is pretty cheap). 
+
+
+
+
+
